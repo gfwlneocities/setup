@@ -1,0 +1,559 @@
+
+<?xml version="1.0" encoding="utf-8" ?>
+<featured>
+
+    <item>
+		<linkUrl>../en-us/GAMES/Pages/lostplanet2.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrglostplanet2.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minilostplanet2.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minilostplanet2off.jpg</thumbOff>
+	   </item>
+
+       <item>
+		<linkUrl>../en-us/GAMES/Pages/legouniverse.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrglegouniverse.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minilegouniverse.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minilegouniverseoff.jpg</thumbOff>
+	   </item> 	   
+	   
+	     <item>
+		<linkUrl>../en-us/GAMES/Pages/deadrising2.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgdeadrising2.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minideadrising2.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minideadrising2off.jpg</thumbOff>
+	   </item>
+
+	    <item>
+		<linkUrl>../en-us/GAMES/Pages/ageofempires3.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgAgeofEmpiresIIIc.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniAgeofEmpiresIIIc.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniAgeofEmpiresIIIcoff.jpg</thumbOff>
+	   </item> 
+	   
+	   	   <item>
+		<linkUrl>../en-us/GAMES/Pages/gearsofwarforwindows.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrggow.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minigears.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minigearsoff.jpg</thumbOff>
+	   </item>     
+     
+
+<!--
+
+      <item>
+		<linkUrl>http://www.gamesforwindows.com</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgGFWMessage.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniGFWMessage.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniGFWMessage_off.jpg</thumbOff>
+	   </item>
+
+
+
+      <item>
+		<linkUrl>../en-us/GAMES/Pages/residentevil5.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgre5_dotw.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minire5_dotw.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minire5off_dotw.jpg</thumbOff>
+	   </item>
+
+	    <item>
+		<linkUrl>../en-us/GAMES/Pages/jamesbondbloodstone.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgbloodstone.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minibloodstone.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minibloodstoneoff.jpg</thumbOff>
+	   </item> 
+
+      <item>
+		<linkUrl>../en-us/GAMES/Pages/lostplanet2.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrglostplanet2.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minilostplanet2.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minilostplanet2off.jpg</thumbOff>
+	   </item>
+
+	      <item>
+		<linkUrl>../en-us/GAMES/Pages/f12010.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgF12010.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniF12010.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniF12010off.jpg</thumbOff>
+	   </item> 
+        
+	   
+	      <item>
+		<linkUrl>../en-us/GAMES/Pages/f12010.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgF12010.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniF12010.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniF12010off.jpg</thumbOff>
+	   </item> 
+  
+ 
+	   	  <item>
+		<linkUrl>../en-us/GAMES/Pages/hitmanbloodmoney.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrghitmanbloodmoney.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minihitmanbloodmoney.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minihitmanbloodmoneyoff.jpg</thumbOff>
+	   </item>
+
+
+      <item>
+		<linkUrl>../en-us/GAMES/Pages/borderlands.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgborderlands_dotw.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniborderlandsdotw.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniborderlandsdotw_off.jpg</thumbOff>
+	   </item> 
+
+
+        <item>
+		<linkUrl>../en-us/GAMES/Pages/blazblue.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgblazblue.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniblazblue.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniblazblueoff.jpg</thumbOff>
+	   </item>  
+
+
+       <item>
+		<linkUrl>../en-us/GAMES/Pages/blacklighttangodown.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgblacklighttangodown.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniblacklighttangodown.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniblacklighttangodownoff.jpg</thumbOff>
+	   </item> 
+
+
+               <item>
+		<linkUrl>../en-us/community/Pages/dealoftheweek.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgborderlands_dotw.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniborderlandsdotw.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniborderlandsdotw_off.jpg</thumbOff>
+	   </item> 
+
+
+      <item>
+		<linkUrl>../en-us/GAMES/Pages/rometotalwar.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgRomeTotalWar.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniRomeTotalWar.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniRomeTotalWaroff.jpg</thumbOff>
+	   </item> 
+
+
+	                 <item>
+		<linkUrl>../en-us/community/Pages/dealoftheweek.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgborderlands_dotw.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniborderlandsdotw.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniborderlandsdotw_off.jpg</thumbOff>
+	   </item> 
+
+
+        <item>
+		<linkUrl>../en-us/GAMES/Pages/blazblue.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgblazblue.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniblazblue.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniblazblueoff.jpg</thumbOff>
+	   </item>  
+
+       <item>
+		<linkUrl>../en-us/GAMES/Pages/blacklighttangodown.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgblacklighttangodown.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniblacklighttangodown.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniblacklighttangodownoff.jpg</thumbOff>
+	   </item> 
+
+
+
+
+   <item>
+		<linkUrl>../en-us/games/pages/princeofpersiatt.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgprinceofpersiatt.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniprinceofpersiatt.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniprinceofpersiattoff.jpg</thumbOff>
+	   </item>
+	   
+	             <item>
+		<linkUrl>../en-us/GAMES/Pages/gearsofwarforwindows.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrggow.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minigears.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minigearsoff.jpg</thumbOff>
+	   </item> 
+
+  
+      
+    <item>
+		<linkUrl>../en-us/GAMES/Pages/dawnofwarII.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgblacklighttangodown.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniblacklighttangodown.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniblacklighttangodownoff.jpg</thumbOff>
+	   </item> 
+
+
+    
+	   	    
+               <item>
+		<linkUrl>../en-us/Games/Pages/blacklighttangodown.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgblacklighttangodown.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniblacklighttangodown.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniblacklighttangodownoff.jpg</thumbOff>
+	   </item>	
+
+
+
+           <item>
+		<linkUrl>../en-us/GAMES/Pages/Silenthunter5.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgsilenthunter5.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minisilenthunter5.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minisilenthunter5off.jpg</thumbOff>
+	   </item>
+
+
+               <item>
+		<linkUrl>../en-us/Games/Pages/blacklighttangodown.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgblacklighttangodown.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniblacklighttangodown.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniblacklighttangodownoff.jpg</thumbOff>
+	   </item>
+	   
+
+             <item>
+		<linkUrl>../en-us/GAMES/Pages/bullyse.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgbullyse.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minibullyse.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minibullyseoff.jpg</thumbOff>
+	   </item> 
+
+          <item>
+		<linkUrl>../en-us/games/Pages/bioshock2.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgbioshock2.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minibioshock2.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minibioshock2off.jpg</thumbOff>
+	   </item>	   
+
+               <item>
+		<linkUrl>../en-us/GAMES/Pages/SupremeCommanderfa.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgscfa.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniscfa.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniscfaoff.jpg</thumbOff>
+	   </item>
+	   	    	   
+	   	           <item>
+		<linkUrl>../en-us/community/pages/gamescom.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrggmcn.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minigmcn.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minigmcnoff.jpg</thumbOff>
+	   </item>
+
+
+
+
+              <item>
+		<linkUrl>../en-us/Games/Pages/dawnofwar.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgdawnofwar.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minidow.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minidowoff.jpg</thumbOff>
+	   </item>
+
+
+               <item>
+		<linkUrl>../en-us/GAMES/Pages/supremecommander.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgSupremeCommander.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniSupremeCommander.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniSupremeCommanderoff.jpg</thumbOff>
+	   </item>  
+
+
+          <item>
+		<linkUrl>../en-us/games/Pages/darkcrusade.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgdc.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minidc.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minidcoff.jpg</thumbOff>
+	   </item>
+
+
+
+               <item>
+		<linkUrl>../en-us/Games/Pages/blacklighttangodown.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgblacklighttangodown.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniblacklighttangodown.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniblacklighttangodownoff.jpg</thumbOff>
+	   </item>
+
+
+               <item>
+		<linkUrl>../en-us/GAMES/Pages/grandtheftautovicecity.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrggtavicecity.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minigtavicecity.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minigtavicecityoff.jpg</thumbOff>
+	   </item>  
+
+             <item>
+		<linkUrl>../en-us/GAMES/Pages/bullyse.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgbullyse.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minibullyse.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minibullyseoff.jpg</thumbOff>
+	   </item> 
+
+          <item>
+		<linkUrl>../en-us/games/Pages/bioshock2.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgbioshock2.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minibioshock2.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minibioshock2off.jpg</thumbOff>
+	   </item>
+
+
+               <item>
+		<linkUrl>../en-us/GAMES/Pages/dawnofwarII.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgdowii.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minidowii.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minidowiioff.jpg</thumbOff>
+	   </item>
+	    
+
+               <item>
+		<linkUrl>../en-us/Games/Pages/blacklighttangodown.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgblacklighttangodown.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniblacklighttangodown.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniblacklighttangodownoff.jpg</thumbOff>
+	   </item>
+	   
+               <item>
+		<linkUrl>../en-us/GAMES/Pages/rainbowsixvegas2.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgRainbowSixVegas2.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniRainbowSixVegas2.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniRainbowSixVegas2off.jpg</thumbOff>
+	   </item>
+	      
+	        <item>
+		<linkUrl>../en-us/GAMES/Pages/assassinscreed.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgAC.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniAC.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniACoff.jpg</thumbOff>
+	   </item>
+	   
+	           <item>
+		<linkUrl>../en-US/Games/Pages/princeofpersia.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgPrinceofPersia.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniPrinceofPersia.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniPrinceofPersiaoff.jpg</thumbOff>
+	   </item>    
+
+               <item>
+		<linkUrl>../en-us/GAMES/Pages/ageofempires3.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgAgeofEmpiresIIIc.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniAgeofEmpiresIIIc.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniAgeofEmpiresIIIcoff.jpg</thumbOff>
+	   </item>  
+
+             <item>
+		<linkUrl>../en-us/GAMES/Pages/gearsofwarforwindows.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrggow.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minigears.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minigearsoff.jpg</thumbOff>
+	   </item> 
+
+	    
+           <item>
+		<linkUrl>../en-US/Games/Pages/fear2projectorigin.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgFEAR2.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minifear2.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minifear2off.jpg</thumbOff>
+	   </item>
+
+
+           <item>
+		<linkUrl>../en-us/GAMES/Pages/Saintsrow2.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgsaintsrow2.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minisaintsrow2.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minisaintsrow2off.jpg</thumbOff>
+	   </item>
+	            
+           <item>
+		<linkUrl>../en-us/GAMES/Pages/dawnofdiscovery.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrganno.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minianno.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniannooff.jpg</thumbOff>
+	   </item> 
+	   
+            <item>
+		<linkUrl>../en-us/GAMES/Pages/worldinconflictce.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgwcce.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniwcce.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniwcceoff.jpg</thumbOff>
+	   </item>
+               <item>
+		<linkUrl>../en-us/Games/Pages/blacklighttangodown.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgblacklighttangodown.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniblacklighttangodown.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniblacklighttangodownoff.jpg</thumbOff>
+	   </item>
+
+             <item>
+		<linkUrl>../en-us/GAMES/Pages/gearsofwarforwindows.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrggow.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minigears.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minigearsoff.jpg</thumbOff>
+	   </item>
+	       
+               
+       
+
+           <item>
+		<linkUrl>../en-us/GAMES/Pages/batmanarkhamasylum.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgbatmanaa.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minibatmanaa.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minibatmanaaoff.jpg</thumbOff>
+	   </item>
+           <item>
+		<linkUrl>../en-us/GAMES/Pages/battlestationspacific.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgbattlestationspacific.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minibattlestationspacific.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minibattlestationspacificoff.jpg</thumbOff>
+	   </item>
+           <item>
+		<linkUrl>../en-us/games/Pages/bioshock2.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgbioshock2.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minibioshock2.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minibioshock2off.jpg</thumbOff>
+	   </item>
+	   <item>
+		<linkUrl>../en-us/GAMES/Pages/chaosrising.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgchaosrising.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minichaosrising.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minichaosrisingoff.jpg</thumbOff>
+	   </item>
+           <item>
+		<linkUrl>../en-us/GAMES/Pages/theclub.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgtheclub.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minitheclub.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minithecluboff.jpg</thumbOff>
+	   </item>
+	   <item>
+		<linkUrl>../en-us/GAMES/Pages/darkvoid.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgdarkvoid.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minidarkvoid.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minidarkvoidoff.jpg</thumbOff>
+	   </item>
+	   <item>
+		<linkUrl>../en-us/games/pages/dirt2.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgdirt2.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minidirt2.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minidirt2off.jpg</thumbOff>
+	  </item>
+           <item>
+		<linkUrl>../en-us/games/Pages/fallout3.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgfallout3.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minifallout3.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniofffallout3.jpg</thumbOff>
+	   </item>
+           <item>
+		<linkUrl>../en-us/GAMES/Pages/grandtheftautoiv.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrggtaiv.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minigtaiv.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minigtaivoff.jpg</thumbOff>
+	   </item>
+           <item>
+		<linkUrl>../en-us/games/Pages/osmos.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgosmos.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniosmos.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minioffosmos.jpg</thumbOff>
+	   </item>
+           <item>
+		<linkUrl>../en-us/GAMES/Pages/redfactionguerrilla.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgRedFactionGuerrilla.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniRedFactionGuerrilla.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniRedFactionGuerrillaoff.jpg</thumbOff>
+	   </item>
+           <item>
+		<linkUrl>../en-us/GAMES/Pages/splintercellconviction.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgsplintercellconviction.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minisplintercellconviction.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minisplintercellconvictionoff.jpg</thumbOff>
+	   </item>
+           <item>
+		<linkUrl>../en-us/GAMES/Pages/streetfighteriv.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgStreetFighterIV.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniStreetFighterIV.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniStreetFighterIVoff.jpg</thumbOff>
+	   </item>
+           <item>
+		<linkUrl>../en-us/games/pages/tinker.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgtink.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minitink.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/miniofftink.jpg</thumbOff>
+	  </item>
+           <item>
+		<linkUrl>../en-us/games/pages/vancouver2010.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgvancouver2010.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minivancouver2010.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minivancouver2010off.jpg</thumbOff>
+	   </item>
+           <item>
+		<linkUrl>../en-us/GAMES/Pages/vivapinataforwindows.aspx</linkUrl>
+		<linkTarget>_self</linkTarget>
+		<image>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/lrgvivapinata.jpg</image>
+		<thumbOn>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minivivapinata.jpg</thumbOn>
+		<thumbOff>../en-us/PublishingImages/flash/home/featuredGames/images/gameImages/minivivapinataoff.jpg</thumbOff>
+	   </item>
+-->
+
+</featured>
